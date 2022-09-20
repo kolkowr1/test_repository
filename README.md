@@ -1,4 +1,4 @@
 # Guacamole recipe
 
 Used in teaching Git.
-That seems useful.
+That seems useful and easy.
